@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo backend is fine",
     "dev": "nodemon src/index.js",
-    "start": "node src/index.js"
+    "start": "nodemon src/index.js"
   },
   "author": "",
   "type": "module",
@@ -25,6 +25,6 @@
     "socket.io": "^4.8.1"
   },
   "devDependencies": {
-    "nodemon": "^3.1.9"
+    "nodemon": "^3.1.11"
   }
 }
